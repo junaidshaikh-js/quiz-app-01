@@ -4,7 +4,7 @@ This project is part of neoG camp level0.
 
 ## What I learned
 
-In this project, I learn about the 'readline-sync' node module. This module is useful to take input from the user.
+In this project, I learn about the `readline-sync` node module. This module is useful to take input from the user.
 
 ## Author
 
